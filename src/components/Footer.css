@@ -1,0 +1,23 @@
+
+.footer {
+    background-color: #ff0000;
+    /* Red background */
+    color: #fff;
+    padding: 2em;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-content{
+    flex: 1;
+    padding: 1em;
+}
+
+.image{
+    
+}
